@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import { App, serviceWorker } from './app';
-import * as firebase from 'firebase/app';
+import firebase from 'firebase/app'
 import 'firebase/analytics';
 import 'react-dates/initialize';
 import 'react-dates/lib/css/_datepicker.css';
